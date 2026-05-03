@@ -1,0 +1,33 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #f5f5f5;
+    align-items: center;
+
+}
+
+.quiz-box {
+    background: rgb(84, 244, 132);
+    padding: 20px;
+    width: 400px;
+    height:400px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    width: 200px;
+}
+button:hover{
+    background-color: burlywood;
+    
+}
+#next-btn{
+    background-color: rgb(230, 117, 117);
+    display:block;
+    padding:10px;
+    width:200px;
+}
