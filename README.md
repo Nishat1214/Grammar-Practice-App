@@ -26,4 +26,12 @@ An interactive web app that helps users practice English grammar with a real-tim
 
 <img width="729" height="785" alt="image" src="https://github.com/user-attachments/assets/7bb97611-102f-4164-9a4b-67a27e0a23c1" />
 
+
+
+
+
+
+
+
+
 <img width="859" height="621" alt="image" src="https://github.com/user-attachments/assets/ed86a36a-f8f0-4315-aea1-6929dd8dd09e" />
